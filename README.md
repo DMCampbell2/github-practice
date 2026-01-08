@@ -1,3 +1,3 @@
 # github-practice
 
-Hello World! I'm learning about version andtol and Github!
+Hello World! I'm learning about version contol and Github!
